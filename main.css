@@ -1,0 +1,46 @@
+
+body {
+   font-family: 'Grandstander', cursive; background-image:url("https://www.dropbox.com/s/p93krtpdfsy5typ/Adobe_Post_20200905_1312100.5658136047110757.png?dl=1");
+    margin-top:2%;
+    background-size:cover;
+    background-attachment:fixed ;
+    color:white;
+    padding:5%;
+}
+.ek{
+    border-radius:50%;
+    border:2px solid #ff009d;
+}
+#one{
+   margin-top:10%; background-image:url("https://www.dropbox.com/s/hg9vikakazdnp8b/Adobe_Post_20200905_1857340.3149814476143479.png?dl=1");
+    background-size:cover;
+    background-attachment:fixed ;
+    color:white;
+    padding:15%;
+    border-radius:20px;
+    border:2px solid #ff009d;
+}
+#MyButton{
+    border-radius:22px;
+    background-color:#003882;
+    border:2px solid #000282;
+    padding:30px;
+}
+#bagg{
+    background-image:url("https://www.dropbox.com/s/c72mgcc6k4cayhq/Adobe_Post_20200907_1311370.30358273536916114.png?dl=1");
+    background-size:cover;
+    background-attachment:fixed ;
+    color:white;
+    padding:15%;
+    border-radius:20px;
+    border:2px solid #0303ff;
+}
+#bagog{
+    background-image:url("https://www.dropbox.com/s/jgoiorrhoyxy3mw/Adobe_Post_20200907_1312150.18833334222421683.png?dl=1");
+    background-size:cover;
+    background-attachment:fixed ;
+    color:white;
+    padding:15%;
+    border-radius:20px;
+    border:2px solid #0303ff;
+}
